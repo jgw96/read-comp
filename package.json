@@ -16,6 +16,9 @@
   "dependencies": {
     "@ionic/core": "^5.1.1",
     "@pwabuilder/pwainstall": "^1.6.2",
+    "@tensorflow-models/qna": "^1.0.0",
+    "@tensorflow/tfjs-converter": "^1.7.4",
+    "@tensorflow/tfjs-core": "^1.7.4",
     "@vaadin/router": "^1.7.1",
     "lit-element": "^2.3.1"
   },
